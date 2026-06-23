@@ -1,0 +1,24 @@
+# Archivos compilados y binarios
+*.exe
+*.dll
+*.vst3
+*.aaxplugin
+*.component
+*.app
+
+# Carpeta de builds de JUCE (ocupa varios GB)
+Builds/
+!Builds/CMakeLists.txt
+
+# Archivos de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+
+JuceLibraryCode/
+JUCE/
+Modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
