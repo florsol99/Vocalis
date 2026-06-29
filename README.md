@@ -7,7 +7,6 @@ Plugin de procesamiento de voz en tiempo real.
 ## 🎛️ Características
 
 - **Compresor**: Threshold, Ratio, Makeup Gain
-- **Reverb**: Room Size, Decay, Mix
 - **Filtro pasa-bajos**: Cutoff (200Hz-20kHz), Resonancia
 - **Delay**: Tiempo (0-1000ms), Feedback, Mix
 - **Espectro logarítmico** en tiempo real
